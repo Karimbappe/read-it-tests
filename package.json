@@ -1,0 +1,16 @@
+{
+  "name": "read-it-tests",
+  "version": "1.0.0",
+  "description": "Playwrigth test repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.45.1",
+    "@types/node": "^20.14.10"
+  }
+}
